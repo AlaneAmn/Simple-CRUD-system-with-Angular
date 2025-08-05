@@ -1,0 +1,39 @@
+{
+  "associate": [
+    {
+      "id": "1",
+      "name": "Amine",
+      "address": "",
+      "creditlimit": 1000,
+      "status": true
+    },
+    {
+      "id": "9925",
+      "name": "qsdfklja",
+      "address": "jfqsldoiae74258",
+      "creditlimit": "7415",
+      "status": false
+    },
+    {
+      "id": "1267",
+      "name": "fdsfqfq",
+      "address": "78971 sdfze",
+      "creditlimit": "07897",
+      "status": true
+    },
+    {
+      "id": "3240",
+      "name": "sdfghjk",
+      "address": "dfghjkliuyt84126",
+      "creditlimit": "74123",
+      "status": false
+    },
+    {
+      "id": "def7",
+      "name": "qsdfad",
+      "address": "sdfaez",
+      "creditlimit": "5000",
+      "status": true
+    }
+  ]
+}
